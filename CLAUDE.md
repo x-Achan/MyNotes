@@ -77,3 +77,7 @@ Spring Boot project at GitHub `x-Achan/ai-learning-profile-backend`. Currently a
 - All code changes must be logged in experiment records
 - Never trust AI's verbal estimates of metrics — only trust training logs, evaluation scripts, and visualization results
 - Planning follows task stages with verification criteria, not fixed time schedules
+
+
+动态窗口
+借鉴一下目标跟踪的方法

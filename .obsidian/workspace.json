@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca5b3a768a6cc08",
+        "id": "0fe341d8801b3125",
         "type": "tabs",
         "children": [
           {
-            "id": "89a0fd913b9f8faf",
+            "id": "7b38088e7cfe2e44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Java学习笔记/Java web/Http协议.md",
+                "file": "其他/腾讯会议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Http协议"
-            }
-          },
-          {
-            "id": "65a3a5af5dce8b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-力扣刷题笔记/链表.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "链表"
+              "title": "腾讯会议"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +71,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "书签"
             }
@@ -95,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 376.16668701171875
   },
   "right": {
     "id": "fa210e970d86eeb2",
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-个人数字档案/当前阶段任务看板.md",
+                "file": "04-Java学习笔记/Redis/基于Session和Redis实现登录对比.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +109,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "当前阶段任务看板 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -130,12 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-个人数字档案/当前阶段任务看板.md",
+                "file": "04-Java学习笔记/MySQL/SQL语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "当前阶段任务看板 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -182,12 +170,11 @@
               "title": "new note 的大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -201,44 +188,46 @@
       "bases:新建数据库": false
     }
   },
-  "active": "65a3a5af5dce8b0b",
+  "active": "71a7ddd6339669d4",
   "lastOpenFiles": [
-    "04-Java学习笔记/第1章-计算机网络协议基础.md",
-    "04-Java学习笔记/MySQL/锁.md",
-    "04-Java学习笔记/MySQL/约束.md",
-    "04-Java学习笔记/MySQL/索引⭐.md",
-    "04-Java学习笔记/MySQL/多表查询.md",
-    "04-Java学习笔记/MySQL/函数.md",
-    "04-Java学习笔记/MySQL/事务.md",
-    "04-Java学习笔记/MySQL/SQL语句.md",
-    "04-Java学习笔记/MySQL/SQL优化.md",
-    "04-Java学习笔记/MySQL/InnoDB存储引擎.md",
-    "04-Java学习笔记/MySQL",
-    "04-Java学习笔记/Java项目/笔记草稿.md",
-    "04-Java学习笔记/Java项目/未命名.md",
-    "04-Java学习笔记/Java项目/当前阶段任务看板.md",
-    "04-Java学习笔记/Java项目/AI_Learning_Profile_Platform_项目分阶段设计 (1).md",
-    "04-Java学习笔记/Java项目",
-    "04-Java学习笔记/Java web/Web基础-分层解耦.md",
-    "04-Java学习笔记/Java web/MyBatis.md",
-    "04-Java学习笔记/Java web/Http协议.md",
-    "04-Java学习笔记/Java web",
-    "04-Java学习笔记/JMM.md",
-    "01-力扣刷题笔记/二叉树.md",
-    "04-Java学习笔记/Git.md",
+    "临时目录/培训记录.md",
+    "临时目录/阶段7.md",
+    "临时目录/创新思路.md",
+    "临时目录/vid数据集外部结果.md",
+    "04-Prompt/提示词.md",
+    "04-Prompt/算法笔记标准格式.md",
+    "04-Prompt/yourself.md",
+    "04-Prompt/vm.md",
+    "深度学习代码笔记/复现步骤-6-2.md",
+    "深度学习代码笔记/项目代码架构与训练流程全梳理.md",
+    "深度学习代码笔记/架构总结与时序策略创新.md",
+    "深度学习代码笔记/VideoMamba_DINO_study_plan.md",
+    "深度学习代码笔记/videomamba_dino.py.md",
+    "深度学习代码笔记/dino_detr.py.md",
+    "深度学习代码笔记/uavdt_detr.py.md",
+    "02-Java后端学习笔记/Java项目/笔记草稿.md",
+    "02-Java后端学习笔记/Java项目/未命名.md",
+    "02-Java后端学习笔记/Java项目/当前阶段任务看板.md",
+    "02-Java后端学习笔记/Java项目/AI_Learning_Profile_Platform_项目分阶段设计 (1).md",
+    "02-Java后端学习笔记/Git.md",
+    "CLAUDE.md",
+    "其他/UC-Mamba-ST-Pool2架构报告 1.md",
+    "其他/腾讯会议.md",
+    "02-Java后端学习笔记/Redis/手写实现Redis分布式锁 + Redisson原理与最佳实践.md",
+    "02-Java后端学习笔记/Redis/CAS乐观锁和悲观锁.md",
+    "02-Java后端学习笔记/Redis/Redis实现全局ID生成器.md",
+    "未命名 1.base",
+    "未命名.base",
+    "02-Java后端学习笔记/Redis",
+    "04-Java学习笔记/未命名.canvas",
+    "临时目录/pasted-text.txt",
+    "02-Java后端学习笔记/Java项目/web-ai-tlias",
+    "04-Java学习笔记/Java项目/未命名.base",
+    "04-Java学习笔记/Java项目/未命名.canvas",
+    "02-Java后端学习笔记/MySQL",
+    "02-Java后端学习笔记/Java项目",
+    "02-Java后端学习笔记/Java web",
     "新建 Text Document.txt",
-    "09-其他/Markdown格式.md",
-    "09-其他/STDA-DINO_required_experiments_checklist.md",
-    "09-其他/STDA-DINO_conference_paper_v1.md",
-    "09-其他/TEMPORAL_EXPERIMENT_LOG.md",
-    "09-其他/EXPERIMENTS_SUMMARY 1.md",
-    "09-其他/UC-Mamba-ST-Pool2架构报告.md",
-    "未命名",
-    "01-力扣刷题笔记/链表",
-    "10-write",
-    "00-个人数字档案",
-    "04-Java学习笔记",
-    "03-深度学习实验记录/videomamba-dino",
     "未命名 1.canvas",
     "未命名.canvas",
     "CodeStudy/未命名.canvas",
